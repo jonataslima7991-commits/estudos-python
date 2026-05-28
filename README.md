@@ -1,19 +1,13 @@
-# 💬 Chatbot template
+📚 Estudos Práticos em Python
 
-A simple Streamlit app that shows how to build a chatbot using OpenAI's GPT-3.5.
+Notebooks desenvolvidos durante a graduação em Ciência de Dados na Fatec Santana de Parnaíba.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chatbot-template.streamlit.app/)
+Conteúdos
+- Arrays e estruturas básicas
+- Tuplas e Listas
+- Filas e Pilhas
+- Estrutura de Dados
+- Exercícios práticos
 
-### How to run it on your own machine
-
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+Ferramentas
+Python • Google Colab • Jupyter Notebook
